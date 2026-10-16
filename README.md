@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Imbecile6197
 
-<!--
-**Imbecile6197/Imbecile6197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web, mobile, and Linux desktop applications, and contribute Czech translations to open-source software.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Driverzz](https://driverzz.eu)
+A community platform for drivers to find and share parking spots, with reviews from fellow drivers.
+
+The project includes a web application, an API, and an Android app built with Flutter. The Android app also provides an offline parking map.
+
+### [Klient](https://github.com/Imbecile6197/klient)
+An open-source email client for GNOME, written in Go with GTK4 and libadwaita.
+
+- Supports Proton Mail, Gmail, Seznam.cz, and IMAP/SMTP accounts.
+- Includes PGP support, an AI assistant, and AI spam filtering, with local AI options through Ollama.
+- Available in English and Czech under the GPL-3.0 license.
+
+## Open-source contributions
+
+### [OpenLogi](https://github.com/AprilNEA/OpenLogi) by AprilNEA
+I contributed Czech localization, including the translation catalog, language registration, and localization tests.
+
+[Pull request #1669](https://github.com/AprilNEA/OpenLogi/pull/1669) was merged into the upstream repository on October 8, 2026.
+
+## Technologies used in these projects
+
+Go · GTK4 · libadwaita · Flutter · Dart
