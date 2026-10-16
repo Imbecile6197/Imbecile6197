@@ -21,8 +21,6 @@ An open-source email client for GNOME, written in Go with GTK4 and libadwaita.
 ### [OpenLogi](https://github.com/AprilNEA/OpenLogi) by AprilNEA
 I contributed Czech localization, including the translation catalog, language registration, and localization tests.
 
-[Pull request #1669](https://github.com/AprilNEA/OpenLogi/pull/1669) was merged into the upstream repository on October 8, 2026.
-
 ## Technologies used in these projects
 
 Go · GTK4 · libadwaita · Flutter · Dart
